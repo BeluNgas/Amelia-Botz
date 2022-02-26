@@ -1,1 +1,1 @@
-worker1: npm i ffmpeg@latest && npm i @adiwajshing/baileys@3.5.3 && npm i -g forever && forever main.js
+worker : git clone https://github.com/BeluNgas/node_modules && npm i pm2 -g && pm2 install ffmpeg && pm2 start main.js && pm2 save && pm2 logs
