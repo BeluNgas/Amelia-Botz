@@ -29,7 +29,7 @@ juga mati klo lgi ada error
 atau lgi perbaikan bug.
 
 Kalo mau sewa bisa chat
-owner Bot, khusus untuk free 
+wa.me/6285156137901 , khusus untuk free 
 sewa 1 hari bisa pake fitur
 ${prefix}freeoneday <Link Gc>
 tanpa harus chat owner
