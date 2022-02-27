@@ -33,7 +33,7 @@
      
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
-     "font": "simple",                      
+     "font": "simple3d",                      
      "self": "SELF",
      "bot": "BOT",
      "ext": "REVOLUTION"
@@ -59,7 +59,7 @@
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
-     "autoWelcome": false,
+     "autoWelcome": true,
      "welcomeType": "type3",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
