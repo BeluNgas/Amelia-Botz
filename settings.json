@@ -21,7 +21,7 @@
      "autoread" : false,
      "autoblockcmd" : false, 
      "autobio" : false,
-     "autoLevel" : false,
+     "autoLevel" : true,
      "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
@@ -33,7 +33,7 @@
      
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
-     "font": "simple3d",                      
+     "font": "simple",                      
      "self": "SELF",
      "bot": "BOT",
      "ext": "REVOLUTION"
@@ -60,7 +60,7 @@
                                                                                                                                                                                                                                    
      "setWelcome": {
      "autoWelcome": true,
-     "welcomeType": "type3",
+     "welcomeType": "type2",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
