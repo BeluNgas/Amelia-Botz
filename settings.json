@@ -21,7 +21,7 @@
      "autoread" : false,
      "autoblockcmd" : false, 
      "autobio" : false,
-     "autoLevel" : true,
+     "autoLevel" : false,
      "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
