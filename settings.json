@@ -5,7 +5,7 @@
      "namabot": "BelluBot",
      "nomerbot": "601136151330",
      "gender" : "male",
-     "copyright" : "Extream",
+     "copyright" : "Revi Mosab Bellungas",
      "namaDocument": "ᴹᴿ᭄ೄྀ࿐Bellu ˊˎ-",
      "joinGcExtream": false,
 
@@ -21,7 +21,7 @@
      "autoread" : false,
      "autoblockcmd" : false, 
      "autobio" : false,
-     "autoLevel" : true,
+     "autoLevel" : false,
      "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
@@ -60,7 +60,7 @@
                                                                                                                                                                                                                                    
      "setWelcome": {
      "autoWelcome": true,
-     "welcomeType": "type2",
+     "welcomeType": "type1",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
