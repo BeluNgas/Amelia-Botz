@@ -14,7 +14,7 @@
      "Loading": true,
      "antitroli" : false,
      
-     "autovn" : false,
+     "autovn" : true,
      "autosticker" : true,
      "autorespon" : false,
      "autotyping" : true,
@@ -33,7 +33,7 @@
      
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
-     "font": "simple",                      
+     "font": "slick",                      
      "self": "SELF",
      "bot": "BOT",
      "ext": "REVOLUTION"
